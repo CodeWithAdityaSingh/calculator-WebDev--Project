@@ -1,2 +1,2 @@
-Calculator project using HTML,CSS & JS
+Calculator project using HTML,CSS & JS.
 Author- Aditya Singh
