@@ -9,7 +9,7 @@ let string = ""
 
 Array.from(buttons).forEach((elements)=>{
   elements.addEventListener("click",()=>{
-    // console.log(elements.innerHTML)
+   
 
     if(elements.innerHTML == "="){
         string = eval(string)
